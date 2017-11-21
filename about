@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Anand Agrawal</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi I'm Anand Agrawal!</h1>
+				<p>I hold Bachelor and Master in Computer Science and Engineering.
+				I spent a year as a Research Assistant in SUTD and around a year as a Software Engineer in 
+		                YuppTV Pvt Ltd.</p> 
+			        <p> Currently, I'm working in Cyber-Security field and my interest lies in 
+				finding the security flaws in CPS, especially in Power Grid and Water Treatment Testbed. <a href="/about">Read more about my life...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:anandgarg91@gmail.com">email</a></li>
+        		<li><a href="https://github.com/anandgarg91">github.com/anandgarg91</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
