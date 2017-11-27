@@ -38,6 +38,18 @@ ul.posts {
     font-size: 1.5em;
 }
 
+#profile .portrait {
+  background-image: url('../img/anandimage.jpg');
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  border-radius: 50%;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+
+
 ul.posts li {
     list-style: none;
 }
