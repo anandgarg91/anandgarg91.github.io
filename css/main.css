@@ -42,13 +42,11 @@ ul.posts {
 
 .portrait4{
   background-image: url('../img/dubai.jpg');
-  width: 250px;
-  height: 250px;
-  margin: 0 auto;
-  border-radius: 70%;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-    background-position: top left;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top left;
+
+
 }
   .portrait5{
   background: url('../img/paris.jpg') left center no-repeat, url('../img/paris1.jpg') center center no-repeat;
