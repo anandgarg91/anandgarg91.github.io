@@ -49,6 +49,7 @@ ul.posts {
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
+    background-position: top left;
 
 .portrait {
   background-image: url('../img/anandimage.jpg');
