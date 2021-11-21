@@ -51,6 +51,17 @@ ul.posts {
   -moz-background-size: cover;
     background-position: top left;
 
+  .portrait5{
+  background-image: url('../img/paris.jpg') left center no-repeat, url('../img/paris1.jpg') center center no-repeat;
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  border-radius: 70%;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+
+    
 .portrait {
   background-image: url('../img/anandimage.jpg');
   width: 150px;
