@@ -41,12 +41,14 @@ ul.posts {
 }
 
 .portrait4{
-  background-image: url('../img/WhatsApp Image 2021-11-21 at 1.55.30 PM (1).jpeg');
-  background-repeat: no-repeat;
+  background-image: url('../img/dubai.jpg');
+  width: 250px;
+  height: 250px;
   margin: 0 auto;
-  height: 300px;
-  width:400px;
-}
+  border-radius: 70%;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
 
 .portrait {
   background-image: url('../img/anandimage.jpg');
