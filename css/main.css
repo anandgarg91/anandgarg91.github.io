@@ -40,7 +40,13 @@ ul.posts {
     font-size: 1.5em;
 }
 
-
+.portrait4{
+  background-image: url('../img/WhatsApp Image 2021-11-21 at 1.55.30 PM (1).jpeg');
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  height: 300px;
+  width:400px;
+}
 
 .portrait {
   background-image: url('../img/anandimage.jpg');
